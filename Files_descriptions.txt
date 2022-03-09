@@ -1,0 +1,13 @@
+free_space.py: If accidentally download checkpoint models, can use these to keep some delete some to save space
+flickr8k_train.csv: flickr8k train set
+flickr8k_val.csv: flickr8k val set
+report v4.docx: DIP group report
+missing_image_summary.png: description of missing images in train/val/test
+ext_train/test/val_exclude.csv: dataset has image_id, image html link, reviews, excluding missing images
+comparison_new.py: codes to create preview image-review pairs multiple epoch docx files, e.g. encoder_3.docx
+encoder_3.docx: example of comparison_new.py output
+word_2_vec: staff related to word embeddings gLOVE
+features_Mr_Son: vision features file
+cherry_picking.docx: Some output reviews used in presentation
+create_html: create HTML file for cherry picking, input: predicted json, output: HTML image-predicted reviews pairs for one epoch output
+flickr8k_original: flickr8k outputs: https://drive.google.com/drive/folders/1jFEo5KOtCN1c1rW6nHGYa9fZCwqcK8Rv
